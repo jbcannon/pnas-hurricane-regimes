@@ -43,11 +43,11 @@ See article for complete study description and results.
 
 * *define_roi.R:* Script to download, edit and define the region of interest used in the analysis
 
-* *exploratory analysis.R* Script to download and examine hurricane tracks and produce summary data, and caluclate information and models for gap filling
+* *exploratory analysis.R:* Script to download and examine hurricane tracks and produce summary data, and caluclate information and models for gap filling
 
 * *hurrecon_runs_parallel.R* Script to process individual NOAA tracks using hurrecon. Code is customizable to run in parallel for speed
 
-* *hurrecon_cumulative_intensity.R* Script to tally wind speed data generated from hurrecon runs and estimate P1, P10, P30
+* *hurrecon_cumulative_intensity.R:* Script to tally wind speed data generated from hurrecon runs and estimate P1, P10, P30
 
 * *cluster_analysis:* Script to take P30 estimates, normalize, and use cluster analysis to generate hurricane regime clusters.
 
