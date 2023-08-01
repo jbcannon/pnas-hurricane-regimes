@@ -59,9 +59,11 @@ Code in these scripts requires use of the *hurrecon* library. See https://github
 
 * *making_graphics.R:* Script to assemble maps, figures, etc.
 
-* *validation_extract_tracks:* Data to select and extract tracks to test against HRRR runs.
+* *validation_extract_tracks.R:* Data to select and extract tracks to test against HRRR runs.
 
 * *HRR_ws_finder.R:* Script to convert data obtained from HRRR to raster and compare with outputs from *hurrecon*.
+
+* *hrrr.py:* Python script that takes hurricane track shapefiles, downloads them from the HRRR database, and outputs wind speed and direction vectors to be processed and converted to raster using *validation_extract_tracks.R*
 
 
 
