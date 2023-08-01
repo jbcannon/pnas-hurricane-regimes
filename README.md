@@ -5,6 +5,8 @@ These code, output data, and figures are associated with Cannon et al. Hurricane
 
 See article for complete study description and results.
 
+Code in these scripts requires use of the *hurrecon* library. See https://github.com/jbcannon/hurrecon for details on installation and use.
+
 # output/
 
 * *regimes.zip:* (contains .shp, .dbf, .prj, and .shx) shapefile indicating four-hurricane regimes boundaries delinated in Cannon et al. article including boundaries for Continental, Inland, Coastal, and Fringe regimes. See Figure 2 and Figure 3 in corresponding article 
